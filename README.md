@@ -1,28 +1,31 @@
 # Hi, I'm Mark Verhoeven 👋
 
-AI Product Strategist and Product Leader focused on turning emerging AI technologies into scalable products, business models and measurable business outcomes.
+AI Product Strategist focused on turning emerging AI technologies into validated products, scalable business models and measurable business outcomes.
 
-## What I do
+## Core Expertise
 
 - AI Product Strategy
 - AI Product Management
 - Product Discovery
+- AI Prototyping
 - Generative AI
 - AI Agents & Automation
 - SaaS Product Development
 - Digital Transformation
 
-## Currently Building
+## How I Work
 
-- AI Product Strategy Framework
-- AI-powered Business Solutions
-- Product Discovery Workflows
-- AI Agent Experiments
+I combine product strategy with rapid AI prototyping to quickly validate ideas, test assumptions and transform opportunities into working solutions.
 
-## Background
+## Currently Exploring
 
-Over 10 years of experience in product management, digital transformation and technology-driven growth across SaaS, healthcare technology and online platforms.
+- AI Product Strategy Frameworks
+- AI Agents
+- Workflow Automation
+- Lovable & Vibe Coding
+- Product Discovery Systems
+- AI-Powered Business Models
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/markverhoeven
+- LinkedIn: linkedin.com/in/markverhoeven
